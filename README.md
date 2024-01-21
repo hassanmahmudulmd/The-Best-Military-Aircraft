@@ -10,6 +10,8 @@ In the dynamic landscape of military aviation, selecting the optimal aircraft fo
 
 For the app "**Predicting the best Military Aircraft**," a suitable and simple Software Development Life Cycle (SDLC) model could be the **Agile** Model.The Agile model consists of iterative cycles called sprints, each focusing on delivering a specific set of features and improvements. This model incorporates key Agile principles such as flexibility, collaboration, and customer feedback.
 
+![agile-software-development-life-cycle-agile-methodology-01](https://github.com/hassanmahmudulmd/The-Best-Military-Aircraft/assets/155526402/7c73d765-c2b4-4c00-8a04-b3bfdaa8bd3e)
+
 
 ## Analysis
 
@@ -28,6 +30,7 @@ Design a robust system architecture integrating machine learning models, ensurin
 
 ### 4.Developement(Sprints)
 Implement features in iterative sprints, focusing on high-priority user stories. Embrace Agile principles, ensuring regular communication, flexibility, and continuous integration.
+![01_Image_4-Steps-Sprint-Cycle-scaled (1)](https://github.com/hassanmahmudulmd/The-Best-Military-Aircraft/assets/155526402/bf57c5e4-464b-475a-8c2a-4ad1f3f9c00b)
 
 ### 5.Testing
 Conduct comprehensive testing, including unit tests, integration tests, and user acceptance testing. Address issues promptly and ensure the app meets performance and security standards.
