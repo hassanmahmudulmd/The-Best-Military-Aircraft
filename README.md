@@ -51,3 +51,18 @@ Deploy the app using continuous integration practices, ensuring a smooth release
 
 ### 7.Review
 Gather feedback from stakeholders and end-users. Conduct a thorough review of the app's functionality, user interface, and overall performance. Iterate on improvements based on the review process.
+
+
+
+
+
+     # Submitted By                                                                # Submitted TO
+
+   Md. Mahmudul Hassan                                                             Pankaj Bhowmik
+
+      ID :2002042                                                                     Lecturer
+
+      L-3, S-I                                                                 Department of CSE, HSTU
+
+   Department of CSE
+
