@@ -55,9 +55,9 @@ Gather feedback from stakeholders and end-users. Conduct a thorough review of th
 
 
 
-## Submitted B
+## Submitted By
 
-Md. Mahmudul Hassan   
+Md. Mahmudul Hassan Nahid
 
 D :2002042                                                                      
 
@@ -67,7 +67,7 @@ Department of CSE
 
 
    
-## Submitted TO **
+## Submitted TO 
 
 Pankaj Bhowmik 
 
