@@ -55,14 +55,24 @@ Gather feedback from stakeholders and end-users. Conduct a thorough review of th
 
 
 
+## Submitted B
 
-    **Submitted By**                                                                ** Submitted TO **
+Md. Mahmudul Hassan   
 
-   Md. Mahmudul Hassan                                                               Pankaj Bhowmik
+D :2002042                                                                      
 
-      ID :2002042                                                                      Lecturer
+L-3, S-I                                                                   
 
-      L-3, S-I                                                                   Department of CSE, HSTU
+Department of CSE
 
-   Department of CSE
+
+   
+## Submitted TO **
+
+Pankaj Bhowmik 
+
+Lecturer
+
+Department of CSE, HSTU
+
 
